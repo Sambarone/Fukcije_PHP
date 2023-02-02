@@ -12,9 +12,9 @@
       <li class="has-submenu">
         <a href="#0">Osnovne funkcije</a>
         <ul class="submenu menu vertical" data-submenu>
-          <li><a href="prva.php">Prva funkcija</a></li>
-          <li><a href="#0">....</a></li>
-          <li><a href="#0">.....</a></li>
+          <li><a target=_blank href="prva.php">Prva funkcija</a></li>
+          <li><a target=_blank href="mojefunkcije.php">Moje funkcije</a></li>
+          <li><a target=_blank href="vlastitefunkcije.php">Korištenje funkcija PHP</a></li>
                              
         </ul>
       </li>

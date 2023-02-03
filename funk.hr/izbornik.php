@@ -38,9 +38,9 @@
     <li class="has-submenu">
         <a href="#0">OOP</a>
         <ul class="submenu menu vertical" data-submenu>
-          <li><a target=_blank href="klasaobjekt.php">Klasa objekt</a></li>
-          <li><a target=_blank href="mojefunkcije.php">Moje funkcije</a></li>
-          <li><a target=_blank href="vlastitefunkcije.php">Korištenje funkcija PHP</a></li>
+          <li><a target=_blank href="klasaobjekt.php">Klasa/objekt</a></li>
+          <li><a target=_blank href="ucahurivanje.php">Učahurivanje</a></li>
+          <li><a target=_blank href="#0">...</a></li>
                              
         </ul>
       </li>

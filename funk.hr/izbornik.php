@@ -22,10 +22,10 @@
      
    
     <li class="has-submenu">
-        <a href="#0">Rekurzija</a>
+        <a href="#0">Rekurzije</a>
         <ul class="submenu menu vertical" data-submenu>
-          <li><a target=_blank href="#0">Zadatak 1</a></li>
-          <li><a target=_blank href="#0">Zadatak 2</a></li>
+          <li><a target=_blank href="primjer1.php">Primjer rekurzije</a></li>
+          <li><a target=_blank href="fibonacci.php" >Fibaonaccijev niz</a></li>
           <li><a target=_blank href="#0">Zadatak 3</a></li>
           <li><a target=_blank href="#0">Zadatak 4</a></li>
           <li><a target=_blank href="#0">Zadatak 5</a></li>
@@ -34,6 +34,16 @@
       
         </ul>
     </li>
+
+    <li class="has-submenu">
+        <a href="#0">OOP</a>
+        <ul class="submenu menu vertical" data-submenu>
+          <li><a target=_blank href="klasaobjekt.php">Klasa objekt</a></li>
+          <li><a target=_blank href="mojefunkcije.php">Moje funkcije</a></li>
+          <li><a target=_blank href="vlastitefunkcije.php">Korištenje funkcija PHP</a></li>
+                             
+        </ul>
+      </li>
     </ul>
   </div>
   <div class="top-bar-right">

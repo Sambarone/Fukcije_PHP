@@ -3,10 +3,11 @@
 include_once 'Pomocno.php';
 
 //apstraktna klasa je ona koja je može imati instancu
+//nju mogu samo nasljediti ostale podklase
 
 class Osoba {
 
-    private $ime;
+    private $ime;       //ovo ne vide
     protected $status; //ovo vide sve klase koje naljede klasu Osoba
     
     public function __construct($ime=''){
